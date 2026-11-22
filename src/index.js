@@ -1,0 +1,1 @@
+alert("Server is running");
