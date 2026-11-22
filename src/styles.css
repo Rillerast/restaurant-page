@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    gap: 20px;
+}
+
+button {
+    padding: 25px 50px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
